@@ -6,7 +6,7 @@ Pensei em um design simples mas que deixe claro as principais funcionalidades da
 temos uma lista de cards que contém aṕenas o título do POST e dois botões de ação, um para visualizar o POST e outro para deletar.
 
 Na página home podemos filtar os POSTS por usuário, fiz um GET na API para buscar os usuário e em seguida um novo GET para buscar 
-os POSTS do usuário selecionado pelo ID e em seguida caso o usuário queira ele pode limpar o filtro.
+os POSTS do usuário selecionado pelo ID, em seguida caso o usuário queira ele pode limpar o filtro.
 
 Após clicar para visulizar o POST é exibido o título, body e um botão para retornar para a home.
 
