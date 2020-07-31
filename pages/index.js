@@ -49,7 +49,7 @@ function Index({ posts, users }) {
         <p>Filtrar por usuário:</p>
         <Select onChange={(value) => handleFilter(value.target.value)}>
           {users.map((item) => (
-            <option>{item.name}</option>
+            <option key={item.id}>{item.name}</option>
           ))}
         </Select>
         <ClearOutlined onClick={clearFilter} />

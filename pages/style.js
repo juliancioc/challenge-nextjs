@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Item = styled.div`
     flex: 1;
-    margin: 7px 10px 10px 7px;
+    margin: 7px 10px 10px 20px;
 `;
 
 export const Wrapper = styled.div`
