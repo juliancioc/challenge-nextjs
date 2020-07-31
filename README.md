@@ -1,4 +1,4 @@
-<img src=" />
+<img src="" />
 
 # Este projeto utiliza:
 
@@ -10,4 +10,4 @@
 # Como iniciar:
 
 - `yarn install` para instalar todos os pacotes.
-- `yarn start` para iniciar o projeto local.
+- `yarn dev` para iniciar o projeto local.
