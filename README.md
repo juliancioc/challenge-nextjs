@@ -12,7 +12,7 @@ Após clicar para visulizar o POST é exibido o título, body e um botão para r
 
 Utilizei o mobile first e depois fiz o layout responsivo.
 
-# Este projeto utiliza:
+# Estrutura:
 
 - As páginas do site estão todas na pasta page com seus respectivos estilos.
 
